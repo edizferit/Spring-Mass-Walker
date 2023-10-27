@@ -4,7 +4,7 @@ A project for Technische Universität München's **IN2352: Applied Biorobotics**
 
 A SIMULINK model is created by using the **spring loaded inverted pendulum (SLIP)** system that will represent bipedal walking. From that model, several values like speed, position, and spring forces are extracted to MATLAB. Plots are produced, which give the opportunity to investigate the patterns in bipedal walking, energy transformation during motion, stability of the system, failure modes, and spring forces. Also, maximum and instantaneous speeds are calculated.
 
-- Report can be seen [here](report/report.pdf).
+- Report can be seen [here](report/Report.pdf).
 - Simulink model can be seen [here](simulink-image.png).
 
 <p align="center">
